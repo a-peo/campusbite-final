@@ -816,6 +816,7 @@ button { font: inherit; color: inherit; }
 .role-option svg { width: 16px; height: 16px; color: var(--green-700); }
 
 .login-form { display: grid; gap: 14px; }
+.login-form .btn-block { padding: 9px 16px; font-size: 13px; max-width: 220px; justify-self: center; }
 .demo-hint {
   margin-top: 18px;
   padding: 12px 14px;
